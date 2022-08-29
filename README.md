@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img border-radius=20px alt="They call me 007. 0 lines added, 0 lines modified, 7 merge conflicts" src="https://user-images.githubusercontent.com/110846042/187197388-2eb12fec-3753-43d7-9046-f76e22b64675.png" width="512">
+
 <!--
 **bennett-sh/bennett-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
